@@ -1,0 +1,1180 @@
+{
+    "values": [
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Bettiah",
+            "Address": "Supriya Road, Ujjain Tola, Zip Code : 845438 Bettiah",
+            "Zip": "845438",
+            "City": "Bettiah"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Bihar Sharif",
+            "Address": "Nageshwar Mall & Multiplex, Ramchandrapur Opp Ajanta Cinema Biharsharif : 803101",
+            "Zip": "803101",
+            "City": "Biharsarif"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Chhapra",
+            "Address": "17384 Dahiyava Tola,land mark Municipal Chowk p.s - Towa thana Chhapra Saran Bihar 841301",
+            "Zip": "841301",
+            "City": "Chhapra"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Darbhanga",
+            "Address": "90 (New), Mirjapur Road, Rajkumar ganj, Lalbagh, Darbhanga : 846004",
+            "Zip": "846004",
+            "City": "Darbhanga"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Gopalganj",
+            "Address": "Post Office Chowk, Gopalganj,Ward No - 16,GPGJ , Zip Code :841428",
+            "Zip": "841428",
+            "City": "Gopalganj"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Nawada",
+            "Address": "Commercial Building lying at Mouza: Nawada, House No.60, Main Road Nawada, PO-PS:Nawada",
+            "Zip": "805110",
+            "City": "Nawada"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Patna",
+            "Address": "Plot # 4, Nala Road, Rajendra Nagar, Near Mahavir Mandir, PATNA : 800003",
+            "Zip": "800003",
+            "City": "Patna"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Patna 2",
+            "Address": "Shyama Bhawan  Boring Canal Road Post Office -Boring Road : 800001",
+            "Zip": "800001",
+            "City": "Patna"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Patna 3",
+            "Address": "Saraswati Chandra Market, Kurji, P.O.- Sadaqat, P.S.- Pataliputra, Dist.- Patna : 800010",
+            "Zip": "800010",
+            "City": "Patna"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Patna 4",
+            "Address": "Pillar No 72,&73,Rajabazar Baily Road, PO-BV college,Rajabazar Baily Road, 800014",
+            "Zip": "800014",
+            "City": "Patna"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Patna 5",
+            "Address": "Laxmi Apartment, Fraser Road, Indiranagar, Old Jakkanpur, Indira Nagar Patna : 800001",
+            "Zip": "800001",
+            "City": "Patna"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Purnia",
+            "Address": "Sharda Nagar Bus stand, Purnea, Ward No. 815, PO: Purnea PS: K.Hat, Mehboob khan tola Near Bus stand",
+            "Zip": "854301",
+            "City": "Purnia"
+        },
+        {
+            "State": "Bihar",
+            "Name": "BK-BH-Sitamarhi",
+            "Address": "Main Road Sitamarhi, Kiran Talkies City : SITAMARHI : 843303",
+            "Zip": "843303",
+            "City": "Sitamarhi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Adityapur",
+            "Address": "Housing Plot No. L2,Chhitphut, PO - Adityapur , PS - Adityapur , Seraikela-Kharsawan :831013",
+            "Zip": "831013",
+            "City": "Adityapur"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Bokaro",
+            "Address": "Bokaro Mall, Indira Gandhi Marg, Sector-3C, Bokaro Steel City, PO-Bokaro, PS- Bokaro : 827003",
+            "Zip": "827003",
+            "City": "Bokaro"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Chas",
+            "Address": "Mahabir Complex, Main Road, Near Chandra Talkies,Beside UBI Chas Baazar Branch, CHAS : 827013",
+            "Zip": "827013",
+            "City": "Bokaro"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Deoghar",
+            "Address": "Nizamat Hussain Road, Opposite Madarsha School, Pst Office- B., Police Station- Deoghar:814112",
+            "Zip": "814112",
+            "City": "Deoghar"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Giridih",
+            "Address": "New Market Padam Chowk ( Moulana Azad Chowk), Muslim Baazar, Giridih Jharkhand - 815301",
+            "Zip": "815301",
+            "City": "Giridih"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Hazaribagh",
+            "Address": "Plot No-198,In Mouza Khirgaon, Maa Durga Complex, Near Laxmi Cinema Hall,Hazaribagh: 82530",
+            "Zip": "825301",
+            "City": "Hazaribagh"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Ranchi",
+            "Address": "Mouza Main Road Village Konka Ranchi PS Lower Bazar ,Plot No 739 Ranchi, Opposite Capital Hill Hotel",
+            "Zip": "834001",
+            "City": "Ranchi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Ranchi 2",
+            "Address": "Jahaj Kothi, Holding No 225A-1, Thana No.191,RS Plot No.1795,1797,1798,Kanke Road, Ranchi : 834008",
+            "Zip": "834008",
+            "City": "Ranchi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Ranchi 3",
+            "Address": "MS Plot No. 2082 Municipal Holding No.836 & 837 (New),859 (Old), Main Road Old Commissioner Compound",
+            "Zip": "834001",
+            "City": "Ranchi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Ranchi 4",
+            "Address": "Mount Motors, Ratu Road, Khesra No.244, Khata No: 94,Ward No.31, 43(Old), 28(New),Ranchi : 834001",
+            "Zip": "834001",
+            "City": "Ranchi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Ranchi 5",
+            "Address": "S.P.G. Mart, Bahu Bazar,M.S.Plot No: 1004,522,Holding No:1319,1320 (Old),Ranchi Station Road :834001",
+            "Zip": "834001",
+            "City": "Ranchi"
+        },
+        {
+            "State": "Jharkhand",
+            "Name": "BK-JH-Tata",
+            "Address": "9 S.N.P AREA,Sakchi,JAMSHEDPUR-TATA : 831001",
+            "Zip": "831001",
+            "City": "Jamshedpur"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD- Angul",
+            "Address": "Main Bazaar Chowk, Opp. HERO HONDA Showroom , Angul : 759122",
+            "Zip": "759122",
+            "City": "Angul"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Bargarh",
+            "Address": "NH-6 infront of Gousala near Gandhi chowck bargarh",
+            "Zip": "768028",
+            "City": "Bargarh"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Bhubaneswar 1",
+            "Address": "3, Eastern Market Building, Unit - II, Bhubaneshwar :751009",
+            "Zip": "751009",
+            "City": "Bhubaneshwar"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Bhubaneswar 2",
+            "Address": "22A,22C,Janpath Rd, Bapuji nagar,Bhubaneshwar,ODISHA :751009",
+            "Zip": "751009",
+            "City": "Bhubaneshwar"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Brahmapur",
+            "Address": "Annapurna Market, Urban Bank Road, Brahmapur, Ganjam, Odisha : 760001",
+            "Zip": "760001",
+            "City": "Brahmapur"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Chaudwar",
+            "Address": "Kalinga Chowk, Chaudwar Town, District: Cuttack : 754025",
+            "Zip": "754025",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Chauliaganj",
+            "Address": "Plot No: 1533360 and Plot No: 1533364, Khata No 736473 , Mouza : CUTTACK : 753004",
+            "Zip": "753004",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Cuttack",
+            "Address": "Link Road, Badambadi,Cuttack : 753009",
+            "Zip": "753009",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Cuttack 2",
+            "Address": "Kedar Bhawan, Dolamundai, PO Buxibazar, PS Badambadi, District - Cuttack : 753001",
+            "Zip": "753001",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Cuttack 3",
+            "Address": "CM2A, Sector- 7, Bidanasi Project Area,CUTTACK : 753014",
+            "Zip": "753014",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Cuttack 4",
+            "Address": "Plot No.1230,Naya Sarak, Cuttack,Post Office:Chandni Chowk Police Station: Purighat Cuttack : 753002",
+            "Zip": "753002",
+            "City": "Cuttack"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Dhenkanal",
+            "Address": "Ganesh Bazar, WardPlot No -3487,  Ward No-6, Dhenkanal :759001",
+            "Zip": "759001",
+            "City": "Dhenkanal"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Jajpur",
+            "Address": "Plot No- 1297 & 1298 Unit IV Mouza Bhatia,Thana – Jajpur Road,Thana No.V, Jajpur : 755019",
+            "Zip": "755019",
+            "City": "Jajpur"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Jeypore",
+            "Address": "Near Congress Bhawan, Main road Jeypore Pin Code : 764001",
+            "Zip": "764001",
+            "City": "Jeypore"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-JEYPORE 2",
+            "Address": "Main Road, Jeypore Town, Mouza: Jagadhatripur",
+            "Zip": "764001",
+            "City": "Jeypore"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Jharsuguda",
+            "Address": "NEAR OPPOSIT  MANMOHAN MIDDLE ENGLISH SCHOOL, SARBAHAL ROAD,WARD NUMBER-3, JHARSUGUDA, ODISHA:768201",
+            "Zip": "768201",
+            "City": "Jharsuguda"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Kendrapara",
+            "Address": "Tarini Talkies Compound, Town Hall Road,Near LIC Office, TINIMUHANI, Kendrapara :754211",
+            "Zip": "754211",
+            "City": "Kendrapara"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Paradeep",
+            "Address": "Hati Complex,IIFCO Chowk, P.S. - Paradip :754141",
+            "Zip": "754141",
+            "City": "Paradip"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Patrapada",
+            "Address": "Near bhaiji restrurant,  PO - Patrapada, PS - Kandagiri, Dist - Khordha,Patrapara :751019",
+            "Zip": "751019",
+            "City": "Khordha"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Puri",
+            "Address": ",Senapati Bhawan , PO-Motisahi Chowk,Police Station-Town Mouza,Grand Road,Ward NO-18,Puri-752001",
+            "Zip": "752001",
+            "City": "Puri"
+        },
+        {
+            "State": "Orissa",
+            "Name": "BK-OD-Sambalpur",
+            "Address": "Naya Para, Ground Floor, Gole Bazzar ,Sambalpur : 768001",
+            "Zip": "768001",
+            "City": "Sambalpur"
+        },
+        {
+            "State": "Tripura",
+            "Name": "BK-TP-Agartala",
+            "Address": "622 Central Road(Near Shib Bari), Agartala : 799001",
+            "Zip": "799001",
+            "City": "Agartala"
+        },
+        {
+            "State": "Tripura",
+            "Name": "BK-TP-Agartala 2",
+            "Address": "21 Mantri Bari Road, Holding No.57A, Ward No:32, House No:326008,PO Chowmohani, Agartala-799001",
+            "Zip": "799001",
+            "City": "Agartala"
+        },
+        {
+            "State": "Tripura",
+            "Name": "BK-TP-Dharamanagar",
+            "Address": "Maya Cinema hall complex ,near electric office, holding no-37,ward no-15,Dharmanagar Town :799250",
+            "Zip": "799250",
+            "City": "Dharmanagar"
+        },
+        {
+            "State": "Tripura",
+            "Name": "BK-TR-Agartala 3",
+            "Address": "T.G.Road,Krishnanagar, Ward no: 18, House no: 189371, Holding no: 175402, Agartala, Tripura:799002",
+            "Zip": "799002",
+            "City": "Agartala"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Amtala",
+            "Address": "Jaiswal Market Diamond Harbour Road  Kanyanagar, 24 Parganas (S),AMTALA :743398",
+            "Zip": "743398",
+            "City": "Amtala"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Arambagh",
+            "Address": "Netaji Square, Arambagh, Ward No - 5, ARAMBAGH :712601",
+            "Zip": "712601",
+            "City": "Arambagh"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Asansol",
+            "Address": "11, G T Road ( Near-Raha Lane) Asansol-713301 , Paschim Bardhaman, West Bengal",
+            "Zip": "713301",
+            "City": "Asansol"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Asansol 2",
+            "Address": "112(3), G.T.ROAD, ASANSOL, WEST BENGAI - 713303",
+            "Zip": "713303",
+            "City": "Asansol"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-AVANI",
+            "Address": "Avani Riverside Mall, Shop No.55,56,57,58,59 & 60, 2nd Floor, 32, Jagat Banerjee Ghat Road, Shibpur",
+            "Zip": "711102",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-AXIS",
+            "Address": "3rd Floor, CF Block (Newtown), Action Area 1C, Newtown, Kolkata, West Bengal:700156",
+            "Zip": "700156",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Baghajatin",
+            "Address": "Onex 75, 75, Raja Subodh Chandra Mallick Road,Baghajatin : 700047",
+            "Zip": "700047",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Barasat",
+            "Address": "322,K.B. BasuRoad, Post Office and Police Station,Barasat ,CHAMPADALI BARA KALI MANDIR BARASAT",
+            "Zip": "700124",
+            "City": "Barasat"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Bardhaman",
+            "Address": "403, G.T.Road,KALI BAAZAR MORE,Bardhaman : 713101",
+            "Zip": "713101",
+            "City": "Bardhaman"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Barrackpore",
+            "Address": "44(221) Sahid Mangal Pandey Sarani, BARRACKPORE :700120",
+            "Zip": "700120",
+            "City": "Barrackpore"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Baruipur",
+            "Address": "Sanghamitra Complex, 44 Kulpi Road, Kachari Bazar (Padmapukur), BRUPR : 700144",
+            "Zip": "700144",
+            "City": "Baruipur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Basirhat",
+            "Address": "272109B, Basirhat Itianda Road  NatunBazar, Opposite of Town Hall",
+            "Zip": "743411",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-BEHALA",
+            "Address": "402 Diamond Harbour Road, Kolkata 700034, West Bengal, Ward No.132, Near by Pathak para, Behala Thana",
+            "Zip": "700034",
+            "City": "Diamond Harbour"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Belgharia",
+            "Address": "4, B.M Banerjee Road, Near Belghari Railway Station, Belgharia, Within Ward No. 20, Kolkata",
+            "Zip": "700056",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Belgharia 2",
+            "Address": "1, Madhu Sudhan Banerjee Road, Ward No: 33, Mouza- Belgharia :700056",
+            "Zip": "700056",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Berhampore",
+            "Address": "111, B.B. Sen Road, Hari Babur Dhalu, Khagra, P.O. Khagra, Berhampore :742103, Within Ward No.13,-",
+            "Zip": "742103",
+            "City": "Baharampur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Berhampore 2",
+            "Address": "31 Krishnanath Road Ward No.17 JL No.91 Mouza: Gar Berhampore, Holding No. 31,Berhampore : 742101",
+            "Zip": "742101",
+            "City": "Murshidabad"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Bolpur",
+            "Address": "Holding No:140491 L.R.Plot No:2039,Khatian No:10771,J.L.No:99,Mouza: Bolpur, Ward No:3(4),",
+            "Zip": "731204",
+            "City": "Bolpur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Bongaon",
+            "Address": "35, Jessore Road, Gandhipally, Holding No 160B, Ward No 14 BONGAON WEST BENGAL 743235",
+            "Zip": "743235",
+            "City": "Bongaon"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-BUDGE BUDGE",
+            "Address": "Holding No: C1-78138,B.B.T Road, Mouza: Sarangabad, J.L.No: 47, L.R.Dag No: 558,Khatian No: 2730",
+            "Zip": "700137",
+            "City": "Budge Budge"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Canning",
+            "Address": "Old SOD Building,Canning Town,P.S. Canning,South 24 Parganas,-CAING : 743329",
+            "Zip": "743329",
+            "City": "Canning"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Chakdah",
+            "Address": "Lalpur,C.B Road,Chakdaha,Kalyani,Nadia,West Bengal : 741222",
+            "Zip": "741222",
+            "City": "Kalyani"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Chanchal",
+            "Address": "Chanchal (Tarltola) Opp: LIC Building. PO- Chanchal, PS-Chanchal, District-Malda, CHCHL : 732123",
+            "Zip": "732123",
+            "City": "Malda"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Chinsurah",
+            "Address": "Town Ground, JC Ghosh Sarani,  District:Hooghly, PS:Chinsurah,Chinsurah Bus Stand",
+            "Zip": "712101",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Contai",
+            "Address": "CO – Aparna Kar, Village – Kumarpur, P.O- Contai, Digha Road,opp. Forest Office, Contai :721401",
+            "Zip": "721401",
+            "City": "Contai"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Cooch Behar",
+            "Address": "Sunity Road, Mouza – Sahar Cooch Behar,Post Office – Cooch Behar,Police Station – Cooch Behar:736101",
+            "Zip": "736101",
+            "City": "Cooch Behar"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-DAKSHINESWAR",
+            "Address": "74, Surya Sen Road, Holding No:692, Ward No:16 (Old), 8(New), Mouza: Dakshineswar",
+            "Zip": "700035",
+            "City": "North 24 Parganas"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Dankuni",
+            "Address": "1, TN Mukerjee Rd, Station Pally, Dankuni, 712311, JL No.99,PS: Dankuni,Dankuni : 712311",
+            "Zip": "712311",
+            "City": "Dankuni"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Dhuliyan",
+            "Address": "KANCHANTALA,DHULIYAN,SAMSERGUNJ,MURSHIDABAD,WEST BENGAL-742202",
+            "Zip": "742202",
+            "City": "Murshidabad"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Diamond Harbour",
+            "Address": "City Bazar, Water Tank Road, Diamond Harbour, 24 Parganas (S), PO_PS: Diamond Harbour : 743331",
+            "Zip": "743331",
+            "City": "Diamond Harbour"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Domjur",
+            "Address": "R.S DagPlot No.2421 (Part) & 2422 (Part), LR Plot No.2434 & 2435, RS Khatian No.4020 & 3699",
+            "Zip": "711405",
+            "City": "Domjur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Durgapur",
+            "Address": "Third Floor, Junction Mall,City Centre, Durgapur, West Bengal : 713216",
+            "Zip": "713216",
+            "City": "Durgapur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Falakata",
+            "Address": "Vill - Falakata, P.O.- Falakata, P.S.- Falakata, Dist.- Alipurduar falakata : : 735211",
+            "Zip": "735211",
+            "City": "Alipurduar"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Gangarampur",
+            "Address": "Bhodonpara Ward No:13 Municipality: Gangarampur Mouza: Rajibpur District: Dakshin Dinaj : 733124",
+            "Zip": "733124",
+            "City": "Gangarampur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Garia",
+            "Address": "Sugam Sudhir, Premises No.444, South Kumrakhali, PO: Narendrapur, PS:Sonarpur,GARIA : 700103",
+            "Zip": "700103",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Gariahat",
+            "Address": "164, Leela Roy Sarani, Gariahat Road : 700019",
+            "Zip": "700019",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Gazole",
+            "Address": "Bidhan Pally, Opposite LIC Building, Near Gazole Bus stand GAZOLE: 732124",
+            "Zip": "732124",
+            "City": "Malda"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Hasnabad",
+            "Address": "Mouza-Hasnabad Laskarnagar, Dag No 17 & 17590, Khaitan No 3883 KOLKATA :-743426",
+            "Zip": "743426",
+            "City": "Barasat"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Hatibagan",
+            "Address": "140,Bidhan Sarani Hathibagan : 700004",
+            "Zip": "700004",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Hatibagan 2",
+            "Address": "83, Bidhan Sarani (Cornwallis Street) Hatibagan : 700004",
+            "Zip": "700004",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Howrah",
+            "Address": "82 Chintamony Dey Road, Bangabasi bus stand ,HOWRAH : 711101",
+            "Zip": "711101",
+            "City": "Howrah"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Islampur",
+            "Address": "Deshbandhu para commercial Building. Choprajhar, Nera BOI, Islampur (ND). Islampur : 733202",
+            "Zip": "733202",
+            "City": "Islampur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Jalpaiguri",
+            "Address": "Krishna Vatika, Ward No - 6, Kadamtala,(Near IDBI Bank), Jalpaiguri : 735101",
+            "Zip": "735101",
+            "City": "Jalpaiguri"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Kalna",
+            "Address": "Station Road, P.O. Kalna, P.S. Kalna : 713409",
+            "Zip": "713409",
+            "City": "Kalna"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Kanchrapara",
+            "Address": "2B, Bag Station Road,Halisahar Bag More , North 24 Parganas KANCHRAPARA : 743145",
+            "Zip": "743145",
+            "City": "Kanchrapara"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Katwa",
+            "Address": "Katwa Gandhi Market, P.O.- Katwa, P.S.- Katwa, Dist.- Purba Bardhaman-KATWA: 713130",
+            "Zip": "713130",
+            "City": "Katwa"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Kharagpur",
+            "Address": "2441, Malancha Road, Midinipur, Opposite Idbi Bank, Under Ward No.16 - Kharagpur : 721301",
+            "Zip": "721301",
+            "City": "Kharagpur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Lindsay Street",
+            "Address": "71D, Lindsay Street, LNDSY : 700087",
+            "Zip": "700087",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Lindsay2",
+            "Address": "5, Lindsay Street, Nellie Sengupta Sarani, Kolkata-700087.Near -Sreeleather, Lindsay :700087",
+            "Zip": "700087",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Madhyamgram",
+            "Address": "Jessore Road South, East Bankimpally, Madhyamgram : 700129",
+            "Zip": "700129",
+            "City": "Madhyamgram"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Malancha",
+            "Address": "JL No. 26, Plot No.20, Khatian No.1400, 1399 & 1398,District: North 24 Parganas PS - Minakhan",
+            "Zip": "743425",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Malda",
+            "Address": "393217,Pranto Pally, Rath Bari, English Bazaar, Opposite Kalinga Hotel -MALDA : 732101",
+            "Zip": "732101",
+            "City": "Malda"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Medinipur",
+            "Address": "Mouza: Sekhpura, J.L. No:172, R.S Plot No:184366(Part), L.R. Plot No1064(Part),Mahalla station Road",
+            "Zip": "721101",
+            "City": "Medinipur"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Memari",
+            "Address": "Memari Bus Stand,Memari, Purba Bardhman : 713146",
+            "Zip": "713146",
+            "City": "Memari"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Naihati",
+            "Address": "2361 RBC ROAD, LR PLOT NO: 2688, PO:NAIHATI, PS:NAIHATI, BARRACKPORE PIN: 743165",
+            "Zip": "743165",
+            "City": "Barrackpore"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Nakatala",
+            "Address": "36423A,NSC Bose Road, Police Station: Netajinagar, Post Office: Naktala : 700047",
+            "Zip": "700047",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Pandua",
+            "Address": "Station road near BDO Office, Pandua : 712149",
+            "Zip": "712149",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Park Street",
+            "Address": "31, Chowringhee Road Parkstreet Pin Code :-700016",
+            "Zip": "700016",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-PURULIA",
+            "Address": "DESHBANDU ROAD,PURULIA TOWN SADAR,PURULIA ,WEST BENGAL : 723101",
+            "Zip": "723101",
+            "City": "Purulia"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-RAJARHAT",
+            "Address": "23. CS Dag No: 286,284,RS Dag No:300,302,303,304,Mouza: Reckjoani,JL.No:12,PS: Rajarhat: 700135",
+            "Zip": "700135",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Rampurhat",
+            "Address": "Plot Near Lotus Press on High Road NH-60, Post Office: Rampurhat, Police Station: Rampurhat:731224",
+            "Zip": "731224",
+            "City": "Birbhum"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Ranaghat",
+            "Address": "591 MISSON ROAD ,PO-RANAGHAT, PS-RANAGHAT , MISSON ROAD, CHABI GATE,RANAGHAT.PIN-741201.",
+            "Zip": "741201",
+            "City": "Ranaghat"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Rangoli",
+            "Address": "212 Girish Ghosh Road, Forum Rangoli Mall, Shop No. - 101, HOWRAH : 711202",
+            "Zip": "711202",
+            "City": "Howrah"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Salbari",
+            "Address": "Hill Cart Road,Opposite:Ayushman Bhawan,Salbari, R.S.Plot No:63,LR Plot No:183,Salbari : 734009",
+            "Zip": "734009",
+            "City": "Siliguri"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Salkia",
+            "Address": "28, Aurobindo Mall, Aurobindo Road, P.S. Malipanchghora, Salkia: 711106",
+            "Zip": "711106",
+            "City": "Howrah"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Santragachi",
+            "Address": "43, Santragachi Station Road,Near Santragachi Bus Stand,Santragachi : 711112",
+            "Zip": "711112",
+            "City": "Howrah"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Sealdah",
+            "Address": "Unit No. B1, 1st floor, family mall,raja bazar, Sealdah: 700014",
+            "Zip": "700014",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Sentrum Mall",
+            "Address": "Unit No.1B, 2nd Floor, Sentrum Mall, Shristi Nagar Road, Asansol, West Bengal : 713305",
+            "Zip": "713305",
+            "City": "Asansol"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Serampore",
+            "Address": "178, N.S. Avenue,  Serampore, Post Office – Serampore, Police Station – Serampore: 712201",
+            "Zip": "712201",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Serampore 2",
+            "Address": "5221D, Grand Trunk Road, Serampore, Chinsurah, PS: Serampore, PO: Serampore: 712202",
+            "Zip": "712202",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-SHYAMNAGAR",
+            "Address": "Ghosh Para Road (Chowringhee), Ward No: 4, Holding No: 150,R.S. Dag No:1083 & 1084, R.S. Khatian No:",
+            "Zip": "743127",
+            "City": "Barrackpore"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Siliguri",
+            "Address": "Ggc Sapphire, Sevoke Road, Near Panitanki ,Opposite L.I.C Building, Siliguri",
+            "Zip": "734001",
+            "City": "Siliguri"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Siliguri 2",
+            "Address": "Shiv Mandir, Sarda Pally, Matigara, Kadamtalla, SILIGURI : 734011",
+            "Zip": "734011",
+            "City": "Siliguri"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Siliguri 3",
+            "Address": "Unit No:115A, & 115 B at 1st Floor of City Centre Mall Siliguri, Pin Code:734010",
+            "Zip": "734010",
+            "City": "Siliguri"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Singur",
+            "Address": "Mouza: Jalaghata,RS Dag No.340,LR Dag No.3404741 RS Khatian No.52,LR Khatian No.1859,Singur :712409",
+            "Zip": "712409",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-STAR MALL",
+            "Address": "Star Mall, Unit No.3S-C1, 3rd Floor, 74Mall1, Jessore Road Madhyamgram, Sisir Kunja, Barasat :700129",
+            "Zip": "700129",
+            "City": "Madhyamgram"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Tamluk",
+            "Address": "Ground Floor,Richmond Sampada, Haldia-Mechada Road, Maniktala More,  East Mednipur,Tamluk : 721636",
+            "Zip": "721636",
+            "City": "Tamluk"
+        },
+        {
+            "State": "WEST-BENGAL",
+            "Name": "BK-WB-Thakurpukur",
+            "Address": "ONEX POINT’ situated at 60A Diamond Harbour Road, Ward No.125 ,Diamond Harbour : 700063",
+            "Zip": "700063",
+            "City": "SOUTH-24-PARGANAS"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Tufanganj",
+            "Address": "Tufanganj main road, word no. 4,  tufanganj, Coochbehar : 736159",
+            "Zip": "736159",
+            "City": "Cooch Behar"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-ULUBERIA",
+            "Address": "Uluberia, Sijbaria, O. T. Road,PIN-711315 Near Uluberia college or Uluberia court, Uluberia : 711316",
+            "Zip": "711316",
+            "City": "Howrah"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-Uttarpara",
+            "Address": "63 New G.T. Road , Uttarpara Hooghly Pin:-712258",
+            "Zip": "712258",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "BK-WB-V.I.P",
+            "Address": "AA 45 VIP ROAD KOLKATA  -700059",
+            "Zip": "700059",
+            "City": "Kolkata"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Barpeta",
+            "Address": "Durga Bari Road, Barpeta Road, P.O.- Barpeta Road, P.S.- Barpeta Road, Dist.- Barpeta : 781315",
+            "Zip": "781315",
+            "City": "Barpeta"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Bongaigaon",
+            "Address": "Ward No 10, BOC Gate, North Bongaigaon, Post Office: Bongaigaon, Police Station: Bongaigaon : 783380",
+            "Zip": "783380",
+            "City": "Bongaigaon"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Dhubri",
+            "Address": "N.S Road. Post Office -Dhubri Police Station -Dhubri",
+            "Zip": "783301",
+            "City": "Dhubri"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Karimganj",
+            "Address": "Kushiyarkul, Roynagar, Opp Bus Stand, Karimganj : 788710",
+            "Zip": "788710",
+            "City": "Karimganj"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Mangaldoi",
+            "Address": "Near Govt. Higher Secondary School, Chapai, Mangaldoi, Darrang, Assam : 784125",
+            "Zip": "784125",
+            "City": "Mangaldoi"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Morigaon",
+            "Address": "Dag No 1406, PP No:873, Ward No:3, Opposite MorigaonSBI, PO: Morigaon, District: Morigaon : 782105",
+            "Zip": "782105",
+            "City": "Guwahati"
+        },
+        {
+            "State": "Andhra Pradesh",
+            "Name": "FCT-AP-Vizianagaram",
+            "Address": "Fort City Central, T.S.No.1066, D.No.8-10- 154, Santapeta Road, South Ward, Vizianagaram : 535002",
+            "Zip": "535002",
+            "City": "Vizianagaram"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Biswanath charali",
+            "Address": "Patta No:157, Dag No:275,276, Ward No:2, Bishwanath Chariali Town, Village: Koch Gaon(Sonitpur) : 784176",
+            "Zip": "784176",
+            "City": "SONITPUR"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-CHAIGAN",
+            "Address": "Rice Mili, Dhekena Bari, Post Office Chaygaon : 781124",
+            "Zip": "781124",
+            "City": "Chandannagore"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Goalpara",
+            "Address": "Agia Road, Ward No.07, Mouza: Balizana, Dag No.126, Patta No.209, Goalpara Town : 783121",
+            "Zip": "783121",
+            "City": "Goalpara"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-KOKRAJHAR",
+            "Address": "17. Kokrajhar Town, Dag No.2992, Patta No.3467, Mouza: Dihi Dokra, Post Office: Kokrajhar :783370",
+            "Zip": "783370",
+            "City": "Kokrajhar"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Silchar",
+            "Address": "Club Road, Opp. Daak Bangla, Silchar : 788001",
+            "Zip": "788001",
+            "City": "Silchar"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-SILPUKHURI",
+            "Address": "G.N.B Road, Silpukhuri, Guwahati, Dag No: 512,513,715, Patta No: 40, Ward No: 10, Mouza: Ulubari, Village",
+            "Zip": "781003",
+            "City": "Guwahati"
+        },
+        {
+            "State": "Assam",
+            "Name": "FCT-AS-Tezpur",
+            "Address": "Tribeni complex N.T. road  Holding NO.3747, Patta No.629, Dag NO 785, sonitpur Assam : 784001",
+            "Zip": "784001",
+            "City": "Tezpur"
+        },
+        {
+            "State": "Bihar",
+            "Name": "FCT-BH-ICON PLAZA MALL",
+            "Address": "Unit No.SF, Anchor-1, 2nd Floor, Icon Plaza Mall, Khata No: 326, Muzzafarpur: 843101",
+            "Zip": "843101",
+            "City": "Muzzafarpur"
+        },
+        {
+            "State": "Bihar",
+            "Name": "FCT-BH-Kishanganj",
+            "Address": "College Road, Ward No.01, Khata No.67, Plot No.255,53,54, Touzi No:1242, Holing No:88(N).",
+            "Zip": "855107",
+            "City": "Kishanganj"
+        },
+        {
+            "State": "Chhattisgarh",
+            "Name": "FCT-CH-Raipur",
+            "Address": "House No. : B -35, Shailendra Nagar, Raipur, Chhattisgarh -492001",
+            "Zip": "492001",
+            "City": "Raipur"
+        },
+        {
+            "State": "Orissa",
+            "Name": "FCT-OD-Bhubaneswar",
+            "Address": "6th Eastern Market Building, Unit-2, Bhubaneswar :751009",
+            "Zip": "751009",
+            "City": "Bhubaneshwar"
+        },
+        {
+            "State": "Uttarakhand",
+            "Name": "FCT-UK-Rishikesh",
+            "Address": "Khesra No.217, 88 & 89 Railway Road Rishikesh, Tehsil: Rishikesh, District: Dehradun : 249201",
+            "Zip": "249201",
+            "City": "Dehradun"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-AGRA",
+            "Address": "Infinity Tower, Karkunj Rd, Near Kargil Petrol Pump, Avas Vikas Colony, Sikandra, Agra : 282007",
+            "Zip": "282007",
+            "City": "Agra"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Allahabad",
+            "Address": "218E, Mahatma Gandhi Road, P. Square Mall, Near Civil Line Bus Stand, Allahabad : 211001",
+            "Zip": "211001",
+            "City": "Allahabad"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Allahabad 2",
+            "Address": "15885, Jhonshanganj, Ps-Kotwali Chowk Dist-Allahabad UP, Near Ghantaghar Chowk Opp.Bharat Glass House.",
+            "Zip": "211003",
+            "City": "Allahabad"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Allahabad3",
+            "Address": "872731A, Colonalganj P. O And P. S. Colonalganj (katra) Allahabad: 211002",
+            "Zip": "211002",
+            "City": "Allahabad"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Ashiyana,",
+            "Address": "Fashyna Khajana Chauraha Plot J-2 Lda Colony Lucknow : 226012",
+            "Zip": "226012",
+            "City": "Lucknow"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Ballia",
+            "Address": "Station Road, Near Citykart, Ballia : 277001",
+            "Zip": "277001",
+            "City": "Ballia"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-BAREILLY",
+            "Address": "Makrandpur Sarkar, Plot No:54, Ayub Khan Chauraha Civil Lines Bareilly :243001",
+            "Zip": "243001",
+            "City": "Bareilly"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Gomtinagar",
+            "Address": "14, VIram Khand Gomti Nagar, Lucknow: 226010",
+            "Zip": "226010",
+            "City": "Lucknow"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Jaunpur",
+            "Address": "Badlapur Padao, Revenue Village, Malipur Peg Tahsil Sardar, Jaunpur :222002",
+            "Zip": "222002",
+            "City": "Jaunpur"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Moradabad",
+            "Address": "Sarai Sheikh Mahmood Mohalla Choumukha Pul Moradabad Uttar Pradesh : 244001",
+            "Zip": "244001",
+            "City": "Moradabad"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Saharanpur",
+            "Address": "2A1027 Bheem Rao Ambedkar Marg, Saharanpur- 247001",
+            "Zip": "247001",
+            "City": "Saharanpur"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "Name": "FCT-UP-Varanasi",
+            "Address": "1482, Teliabagh, Near by Patel Dharmshala Sigra Road VARANASI : 221002",
+            "Zip": "221002",
+            "City": "Varanasi"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "FCT-WB-Basirhat",
+            "Address": "Tulapotty, Jamrultala, Itinda Road, Puratan Baazar, PS - Basirhat, Dist - North 24 Parganas: 743411",
+            "Zip": "743411",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "FCT-WB-Malda",
+            "Address": "2225A Rabindra Avenue, English Bazar, -MALDA 732101",
+            "Zip": "732101",
+            "City": "Malda"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "FCT-WB-Sealdah",
+            "Address": "Sealdah Station Building, 1st Floor, Raja Bazar, Sealdah :700014",
+            "Zip": "700014",
+            "City": "Kolkata"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "FCT-WB-Serampore",
+            "Address": "15, DR. Chatterjee Lane, Serampore, Near Serampore Railway Station, Hooghly : 712201",
+            "Zip": "712201",
+            "City": "Hoogly"
+        },
+        {
+            "State": "West Bengal",
+            "Name": "FCT-WB-V.I.P",
+            "Address": "Shree Tower, Sahabagan, Jyangra, Baguiati, Kolkata, West Bengal 700059",
+            "Zip": "700059",
+            "City": "Kolkata"
+        }
+    ]
+}
